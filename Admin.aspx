@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" >
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-<title>ç®¡ç†å‘˜åå°ç®¡ç†</title>
+<title>¹ÜÀíÔ±ºóÌ¨¹ÜÀí</title>
 <style type="text/css">
 <!--
 body {
@@ -24,7 +24,7 @@ body {
     <td valign="top">
     <table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tr>
-        <td><img src="../images/åå°ç®¡ç†.jpg"  alt="å›¾ç‰‡ä½ç½®"  width="1010" height="200"/></td>
+        <td><img src="../images/ºóÌ¨¹ÜÀí.jpg"  alt="Í¼Æ¬Î»ÖÃ"  width="1010" height="200"/></td>
       </tr>
     </table>
       <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -40,16 +40,16 @@ body {
           <td style="width: 818px; height: 736px;">
           &nbsp; &nbsp; 
           <span style="color: #ff0033">
-                ç®¡ç†å‘˜ä¿¡æ¯:</span>&nbsp; &nbsp; 
+                ¹ÜÀíÔ±ĞÅÏ¢:</span>&nbsp; &nbsp; 
               <span style="color: #ff0033">
                 ID:</span>
                 <asp:Label id="lbl_adminId" runat="server"></asp:Label>
                 <span
-                  style="color: #ff0033"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;å§“å:</span>
+                  style="color: #ff0033"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ĞÕÃû:</span>
                   <asp:Label id="Label1" runat="server"></asp:Label>
                   <span style="color: #ff0033"> &nbsp; &nbsp;&nbsp;
                           &nbsp;&nbsp;
-                ç®¡ç†å‘˜æƒé™:</span>
+                ¹ÜÀíÔ±È¨ÏŞ:</span>
                 <asp:Label id="Label2" runat="server"></asp:Label>
                 <span style="color: #ff0033">
              <iframe name="menu" frameborder="0" scrolling="auto" style="width: 780px; height:682px" src="AdminChangePWD.aspx" id="IFRAME1"></iframe>
