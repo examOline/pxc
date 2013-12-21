@@ -18,6 +18,9 @@ function TABLE1_onclick() {
 <body style="text-align: center">
     <form id="form1" runat="server">
     <div>
+        <br />
+        <span style="font-size: 24pt">成绩结果查询:</span><br />
+        <br />
         <table style="width: 682px; height: 169px">
             <tr>
                 <td style="height: 43px">
