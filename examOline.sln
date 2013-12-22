@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "新建文件夹 (2)", ".", "{09E66A90-1143-4F3C-B727-79F7FF00556C}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/毕业设计"
+		Debug.AspNetCompiler.PhysicalPath = "E:\项目\未分类\在线考试系统,060107229#060107231#060107114#060107111\毕业设计\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\毕业设计\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/毕业设计"
+		Release.AspNetCompiler.PhysicalPath = "E:\项目\未分类\在线考试系统,060107229#060107231#060107114#060107111\毕业设计\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\毕业设计\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3227"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09E66A90-1143-4F3C-B727-79F7FF00556C}.Debug|.NET.ActiveCfg = Debug|.NET
+		{09E66A90-1143-4F3C-B727-79F7FF00556C}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
